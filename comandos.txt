@@ -19,3 +19,5 @@ git config --list
 Iniciando um repositório
 Entrar na pasta e digitar
 git init
+
+Branch, README e Commit
