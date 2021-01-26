@@ -27,6 +27,8 @@ git log
 Saber em qual branch estou
 git branch
 
+************************
+************
 ************
 
 
