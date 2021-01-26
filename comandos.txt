@@ -21,3 +21,14 @@ Entrar na pasta e digitar
 git init
 
 Branch, README e Commit
+Histórico de commits
+git log
+
+Saber em qual branch estou
+git branch
+
+
+
+
+
+
