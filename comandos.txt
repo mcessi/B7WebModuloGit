@@ -1,0 +1,21 @@
+Configurando o GIT
+
+Definir nome do usuário da máquina
+git config --global user.user
+
+Definir e-mail do usuário da máquina
+git config --global user.email
+
+Definir editor que estou usando
+git config --global core.editor vscode
+
+Ler e-mail cadastrado na máquina
+git config user.email
+
+Ler todas informações cadastradas na máquina
+git config --list
+
+
+Iniciando um repositório
+Entrar na pasta e digitar
+git init
